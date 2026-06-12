@@ -1,6 +1,9 @@
 import SectionHeader from "./SectionHeader";
 import { personalInfo } from "../data/resume";
 
+
+function name() { }
+
 function Contact() {
   return (
     <section id="contact" className="section contact">
